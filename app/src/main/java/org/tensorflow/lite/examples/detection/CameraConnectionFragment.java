@@ -550,6 +550,7 @@ public class CameraConnectionFragment extends Fragment {
       return dialog;
     }
 //change
+    //change2
     @Override
     public Dialog onCreateDialog(final Bundle savedInstanceState) {
       final Activity activity = getActivity();
