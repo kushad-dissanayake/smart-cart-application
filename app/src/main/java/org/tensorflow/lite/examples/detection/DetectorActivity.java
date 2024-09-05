@@ -526,5 +526,5 @@ public class DetectorActivity extends CameraActivity implements OnImageAvailable
             }
         });
     }
+    //change3
 }
-//change
