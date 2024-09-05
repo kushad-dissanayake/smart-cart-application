@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tfe_color_primary">#008a3c</color>
+    <color name="tfe_color_primary_dark">#023020</color>
+    <color name="tfe_color_accent">#425066</color>
+    #023020<color name="btn_cart_color">#023020</color>
+
+    <color name="tfe_semi_transparent">#66000000</color>
+
+    <color name="control_background">#cc4285f4</color>
+    <color name="selection_highlight">#aaaaaa</color>
+    <color name="selection_focus">#008a3c</color>
+    <color name="item_normal">#eeeeee</color>
+    <color name="button_background_color">#023020</color>
+
+    //onboarding colors
+    <color name="background">#F0F4F3</color>
+    <color name="button_text">#023020</color>
+    <color name="heading_color">#000000</color>
+
+    //indicator color
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#023020</color>
+
+    //Discount color
+    <color name="discountColor">#FF0000</color>
+</resources>

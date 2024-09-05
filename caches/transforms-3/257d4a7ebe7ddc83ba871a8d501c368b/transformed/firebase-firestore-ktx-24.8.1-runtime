@@ -1,0 +1,15 @@
+com.google.firebase.firestore.ktx.BuildConfig
+com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+com.google.firebase.firestore.ktx.FirestoreKt
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$1
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$1$1
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$1$2
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$1$2$1
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$2
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$2$1
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$2$2
+com.google.firebase.firestore.ktx.FirestoreKt$dataObjects$$inlined$map$2$2$1
+com.google.firebase.firestore.ktx.FirestoreKt$snapshots$1
+com.google.firebase.firestore.ktx.FirestoreKt$snapshots$1$1
+com.google.firebase.firestore.ktx.FirestoreKt$snapshots$2
+com.google.firebase.firestore.ktx.FirestoreKt$snapshots$2$1

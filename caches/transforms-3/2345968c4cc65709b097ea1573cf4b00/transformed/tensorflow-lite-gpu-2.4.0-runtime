@@ -1,0 +1,3 @@
+org.tensorflow.lite.gpu.CompatibilityList
+org.tensorflow.lite.gpu.GpuDelegate
+org.tensorflow.lite.gpu.GpuDelegate$Options

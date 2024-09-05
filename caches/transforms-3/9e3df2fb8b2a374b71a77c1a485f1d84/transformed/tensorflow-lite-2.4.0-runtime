@@ -1,0 +1,12 @@
+org.tensorflow.lite.DataType
+org.tensorflow.lite.DataType$1
+org.tensorflow.lite.Delegate
+org.tensorflow.lite.Interpreter
+org.tensorflow.lite.Interpreter$Options
+org.tensorflow.lite.NativeInterpreterWrapper
+org.tensorflow.lite.Tensor
+org.tensorflow.lite.Tensor$QuantizationParams
+org.tensorflow.lite.TensorFlowLite
+org.tensorflow.lite.annotations.UsedByReflection
+org.tensorflow.lite.nnapi.NnApiDelegate
+org.tensorflow.lite.nnapi.NnApiDelegate$Options

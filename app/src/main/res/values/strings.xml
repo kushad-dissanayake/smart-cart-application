@@ -1,0 +1,16 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Smart Cart</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+
+    //Headings
+    <string name="heading_one">Quick &amp; Easy Payments</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_two">It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain</string>
+    <string name="desc_three">It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain</string>
+    <string name="desc_fourth">It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain</string>
+</resources>
