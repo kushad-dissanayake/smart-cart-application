@@ -327,7 +327,7 @@ public class DetectorActivity extends CameraActivity implements OnImageAvailable
 
                                 // Convert the detected labels to a single string
                                 String detectedLabelsString = TextUtils.join(", ", detectedLabels);
-//change3
+
                                 // Find the TextView by its ID and update its text
                                 TextView detectedLabelsTextView = findViewById(R.id.detectedLabelsTextView);
 
@@ -527,3 +527,4 @@ public class DetectorActivity extends CameraActivity implements OnImageAvailable
         });
     }
 }
+//change
